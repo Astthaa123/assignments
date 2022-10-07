@@ -1,6 +1,6 @@
 
 <<<<<<< HEAD
-how are u
+how are u,
 =======
 <<<<<<< HEAD
 how r u,well good,ok
