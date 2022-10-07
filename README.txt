@@ -2,5 +2,9 @@
 <<<<<<< HEAD
 how are u
 =======
-how r u,doing good
+<<<<<<< HEAD
+how r u,well good
+=======
+how r u,hope doing good
+>>>>>>> css-assignment
 >>>>>>> html-assignment
